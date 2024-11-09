@@ -11,8 +11,7 @@
         {
             "url": "https://www.饭太硬.com/tv",
             "name": "🚀3-饭太硬推荐"
-        },
-		
+        },	
         {
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
             "name": "🚀4-健康家用"
@@ -21,7 +20,6 @@
             "url": "https://ghp.ci/raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
             "name": "🚀5-宝盒线路"
         },
-       
         {
             "url": "https://ghp.ci/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
             "name": "🚀6-FongMI线路"
@@ -30,17 +28,14 @@
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀7-巧计线路"
         },
-       
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🚀8-运输车路"
-        },
-        
+        },  
         {
             "url": "https://100km.top/0",
             "name": "🚀9-骚 0线路"
-        },
-        
+        },  
         {
             "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀10-高天流云js"
@@ -48,8 +43,7 @@
         {
             "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀11-高天流云 XYQ"
-        },
-       
+        }, 
         {
             "url": "http://www.lyyytv.cn/yt/yt.json",
             "name": "🚀12-影探线路"
@@ -65,8 +59,7 @@
         {
             "url": "https://szyyds.cn/tv/x.json",
             "name": "🚀15-小马线路"
-        },
-        
+        },     
         {
             "url": "https://www.wya6.cn/tv/yc.json",
             "name": "🚀16-无意线路"
@@ -74,10 +67,6 @@
 	{
             "url": "https://tv.nxog.top/m/",
             "name": "🚀17-讴歌线路"
-        },
-	{
-            "url": "http://z.qiqiv.cn/123",
-            "name": "🚀18-奇奇单仓"
         }
     ]
 }
