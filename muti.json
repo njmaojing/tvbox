@@ -1,6 +1,10 @@
 {
     "urls": [
 	{
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "摸鱼线路"
+        },	
+	{
             "url": "https://gh.three2all.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "潇洒哥线路"
         },
